@@ -13,5 +13,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Gays](https://github.com/Elite-S-r-l/ServerRP/edit/main/docs/index.md) and ![Image](src)
 ```
