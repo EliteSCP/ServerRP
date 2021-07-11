@@ -1,17 +1,1 @@
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Gays](https://github.com/Elite-S-r-l/ServerRP/edit/main/docs/index.md) and ![Image](src)
-```
+# Benvenuto nel Sito del Server RP, creato e pubblicato da Elite S.r.l.
