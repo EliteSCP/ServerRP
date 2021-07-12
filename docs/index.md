@@ -17,4 +17,4 @@ h4 {text-align: center;}
 &nbsp;
 
 <h4><span style="color:#EFC01A">1.0 Insulti:</span></h4>
-<p><span style="color:#00FFFF">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</spam></p>
+<p><span style="color:#00FFFF">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</span></p>
