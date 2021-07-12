@@ -2,7 +2,7 @@
 
 <h2>Regolamento del Server RP</h2>
 
-<span style="color:#6C3483">Breve presentazione</span>
+<font size="18"><span style="color:#6C3483">Breve presentazione</span></font>
 <p><span style="color:#2E86C1">Salve e benvenuto, questo il canale dedicato al **Regolamento RP**. </span></p>
 <p><span style="color:#2E86C1">Questo regolamento è stato creato da: <span style="color:#DC143C"><b>Bay#0001</b></span> & <span style="color:#FF1493"><b>Vicroger#1240</b></span> e scritto da: <span style="color:#DC143C"><b>Bay#0001</b>.</span></span></p>
 
@@ -10,5 +10,6 @@
 
 <h3>Regolamento generale</h2>
 
-<code><span style="color:#EFC01A">1.0 Insulti:</span>
-<p><span style="color:#00FFFF">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p></code>
+
+<span style="color:#EFC01A">1.0 Insulti:</span>
+<p><span style="color:#00FFFF">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>
