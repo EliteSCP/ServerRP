@@ -8,7 +8,7 @@
 
 <h2>Sezione 1: Regolamento generale e definizioni base</h2>
 
-<h2>Regolamento generale</h2>
+<h3>Regolamento generale</h2>
 
-<span style="color:#6C3483">1.0 Insulti:</span>
-<p><span style="color:#FF0000">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>
+```<span style="color:#6C3483">1.0 Insulti:</span>
+<p><span style="color:#00FFFF">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>```
