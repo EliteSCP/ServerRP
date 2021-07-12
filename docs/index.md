@@ -6,7 +6,7 @@ h4 {text-align: center;}
 <h2>Benvenuto nella Home Page del Server RP di proprietà Elite S.r.l</h2>
 &nbsp;
 <h2><span style="color:#6C3483">Breve presentazione</span></h2>
-<center><p><span style="color:#2E86C1">Salve e benvenuto, questo è la pagina web dedicata al <b><i>Regolamento RP</i></b>.</span></p>
+<center><p><span style="color:#2E86C1">Salve e benvenuto/a, questa è la pagina web dedicata al <b><i>Regolamento RP</i></b>.</span></p>
 <p><span style="color:#2E86C1">Questo regolamento è stato creato ed ideato da: <span style="color:#DC143C"><b>Bay#0001</b></span> & <span style="color:#FF1493"><b>Vicroger#1240</b></span> e scritto da: <span style="color:#DC143C"><b>Bay#0001</b></span>.</span></p></center>
 &nbsp;
 <h2>Sezione 1: Regolamento generale e definizioni base</h2>
