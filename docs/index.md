@@ -2,8 +2,8 @@
 
 <h2>Regolamento del Server RP</h2>
 
-<font size="14"><span style="color:#6C3483">Breve presentazione</span></font>
-<font size="10"><p><span style="color:#2E86C1">Salve e benvenuto, questo il canale dedicato al **Regolamento RP**. </span></p>
+<font size="12"><span style="color:#6C3483">Breve presentazione</span></font>
+<font size="6"><p><span style="color:#2E86C1">Salve e benvenuto, questo il canale dedicato al **Regolamento RP**. </span></p>
 <p><span style="color:#2E86C1">Questo regolamento è stato creato da: <span style="color:#DC143C"><b>Bay#0001</b></span> & <span style="color:#FF1493"><b>Vicroger#1240</b></span> e scritto da: <span style="color:#DC143C"><b>Bay#0001</b>.</span></span></p></font>
 
 <h2>Sezione 1: Regolamento generale e definizioni base</h2>
