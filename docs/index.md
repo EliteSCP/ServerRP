@@ -12,34 +12,34 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
-<b><i>1.0 Insulti</i>:</b>
+<b><i><p style="color:#1E90FF;">1.0 Insulti</p></i>:</b>
 <br>Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.
 
-<b><i>1.1 Bestemmie</i>:</b>
+<b><i><p style="color:#1E90FF;">1.1 Bestemmie</p></i>:</b>
 <br>È vietato bestemmiare in continuazione e in modo reiterato, qualche bestemmia occasionale è invece permessa.
 
-<b><i>1.2 Disturbo della quiete</i>:</b>
+<b><i><p style="color:#1E90FF;">1.2 Disturbo della quiete</p></i>:</b>
 <br>È vietato l'utilizzo di soundboard in qualsiasi circostanza.
 <br>È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.
 
-<b><i>1.3 Advertising</i>:</b>
+<b><i><p style="color:#1E90FF;">1.3 Advertising</p></i>:</b>
 <br>È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
 <br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per [Twitch](https://www.twitch.tv) e [Youtube](https://www.youtube.com).
 
-<b><i>1.4 Molestie allo STAFF RP</i>:</b>
+<b><i><p style="color:#1E90FF;">1.4 Molestie allo STAFF RP</p></i>:</b>
 <br>Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.
 
-<b><i>1.5 Contestazioni</i>:</b>
+<b><i><p style="color:#1E90FF;">1.5 Contestazioni</p></i>:</b>
 <br>È vietato fare contestazioni sul server di gioco, per sanzioni ricevute e simili, anche per conto di terzi.
 
-<b><i>1.6 Comportamenti tossici</i>:</b>
+<b><i><p style="color:#1E90FF;">1.6 Comportamenti tossici</p></i>:</b>
 <br>È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
 <br>Lo scherzo, se non fastidioso, è invece permesso.
 
-<b><i>1.7 Razzismo</i>:</b>
+<b><i><p style="color:#1E90FF;">1.7 Razzismo</p></i>:</b>
 <br>È severamente vietato attuare comportamenti razzisti verso qualsiasi persona.
 
-<b><i>1.8 Cyberbullismo</i>:</b>
+<b><i><p style="color:#1E90FF;">1.8 Cyberbullismo</p></i>:</b>
 <br>È severamente vietato attuare comportamenti da cyberbullo nei confronti di qualsiasi persona.
 
 <b><i>1.9 Exploit</i>:</b>
@@ -66,4 +66,4 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>È severamente vietato non utilizzare un microfono funzionante.
 
 <b><i>1.16 Violazione delle definizioni base</i>:</b>
-<br>È severamente vietato violare le definizioni base.j
+<br>È severamente vietato violare le definizioni base.
