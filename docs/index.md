@@ -21,11 +21,11 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <b style="color:#1E90FF"><i>1.2 Disturbo della quiete</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato l'utilizzo di soundboard in qualsiasi circostanza.
 È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.</p>
-
-<b><i><p style="color:#1E90FF;">1.3 Advertising</p></i>:</b>
-<br>È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
-<br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per [Twitch](https://www.twitch.tv) e [Youtube](https://www.youtube.com).
-
+<br>
+<b style="color:#1E90FF"><i>1.3 Advertising</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
+È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per [Twitch](https://www.twitch.tv) e [Youtube](https://www.youtube.com).</p>
+<br>
 <b><i><p style="color:#1E90FF;">1.4 Molestie allo STAFF RP</p></i>:</b>
 <br>Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.
 
