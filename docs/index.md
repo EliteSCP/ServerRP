@@ -9,7 +9,7 @@ h4 {text-align: center;}
 Questa è la "<i>pagina web</i>" dedicata al <b>Regolamento RP</b>.
 <br>Questo regolamento è stato creato ed ideato da: <b>Bay#0001</b> & <b>Vicroger#1240</b>.
 
-<br><h2><b>REGOLAMENTO GENERALE</b></h2>
+<h2><b>REGOLAMENTO GENERALE</b></h2>
 
 <b><i>1.0 Insulti</i>:</b>
 <br>Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.
