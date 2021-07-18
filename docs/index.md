@@ -11,7 +11,7 @@ Questa è la "<i>pagina web</i>" dedicata al <b>Regolamento RP</b>.
 Questo regolamento è stato creato ed ideato da: <b>Bay#0001</b> & <b>Vicroger#1240</b>.
 
 
-<div style="text-align:right;"><h2>Regolamento generale</h2></div>
+<h2><b>Regolamento generale</b></h2>
 
 <b><i>1.0 Insulti</i>:</b>
 <br>Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.
@@ -25,7 +25,7 @@ Questo regolamento è stato creato ed ideato da: <b>Bay#0001</b> & <b>Vicroger#1
 
 <b><i>1.3 Advertising</i>:</b>
 <br>È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
-<br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo (vale soprattutto per [https://www.twitch.tv Twitch] e [https://www.youtube.com/ Youtube])
+<br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo (vale soprattutto per [https://www.twitch.tv] (Twitch) e [https://www.youtube.com] (Youtube)
 
 <b><i>1.4 Molestie allo STAFF RP</i>:</b>
 <br>Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.
