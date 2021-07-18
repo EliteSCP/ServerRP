@@ -1,6 +1,7 @@
 <style>
 h2 {text-align: center;}
 h4 {text-align: center;}
+b <p style="color:#FF0000";>
 </style>
 
 <h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2>
