@@ -6,11 +6,11 @@ bold {color:#800080;}
 
 <h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2>
 
-<h2><b>BREVE PRESENTAZIONE</b></h2>
+<h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
 Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
 
-<h2><b>REGOLAMENTO GENERALE</b></h2>
+<h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
 <b><i>1.0 Insulti</i>:</b>
 <br>Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.
