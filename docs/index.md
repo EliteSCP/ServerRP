@@ -12,7 +12,7 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
-<b><i><p style="color:#1E90FF;">1.0 Insulti</p></i>:</b>
+<p style="color:#1E90FF;"><b><i>1.0 Insulti</i>:</b></p>
 <br>Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.
 
 <b><i><p style="color:#1E90FF;">1.1 Bestemmie</p></i>:</b>
