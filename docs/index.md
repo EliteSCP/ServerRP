@@ -26,12 +26,12 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <p style="color:#00CED1">È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
 È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per <a href="https://www.twitch.tv" target="_blank">Twitch</a> e <a href="https://www.youtube.com" target="_blank">YouTube</a>.</p>
 <br>
-<b><i><p style="color:#1E90FF;">1.4 Molestie allo STAFF RP</p></i>:</b>
-<br>Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.
-
-<b><i><p style="color:#1E90FF;">1.5 Contestazioni</p></i>:</b>
-<br>È vietato fare contestazioni sul server di gioco, per sanzioni ricevute e simili, anche per conto di terzi.
-
+<b style="color:#1E90FF"><i>1.4 Molestie allo STAFF RP</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.</p>
+<br>
+<b style="color:#1E90FF"><i>1.5 Contestazioni</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È vietato fare contestazioni sul server di gioco, per sanzioni ricevute e simili, anche per conto di terzi.</p>
+<br>
 <b><i><p style="color:#1E90FF;">1.6 Comportamenti tossici</p></i>:</b>
 <br>È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
 <br>Lo scherzo, se non fastidioso, è invece permesso.
