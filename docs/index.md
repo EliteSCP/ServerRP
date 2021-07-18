@@ -66,4 +66,4 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>È severamente vietato non utilizzare un microfono funzionante.
 
 <b><i>1.16 Violazione delle definizioni base</i>:</b>
-<br>È severamente vietato violare le definizioni base.
+<br>È severamente vietato violare le definizioni base.j
