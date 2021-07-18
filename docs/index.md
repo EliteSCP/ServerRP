@@ -20,11 +20,11 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>
 <b style="color:#1E90FF"><i>1.2 Disturbo della quiete</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato l'utilizzo di soundboard in qualsiasi circostanza.
-È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.</p>
+<br>È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.</p>
 <br>
 <b style="color:#1E90FF"><i>1.3 Advertising</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
-È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per <a href="https://www.twitch.tv" target="_blank">Twitch</a> e <a href="https://www.youtube.com" target="_blank">YouTube</a>.</p>
+<br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per <a href="https://www.twitch.tv" target="_blank">Twitch</a> e <a href="https://www.youtube.com" target="_blank">YouTube</a>.</p>
 <br>
 <b style="color:#1E90FF"><i>1.4 Molestie allo STAFF RP</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">Cercare di contattare eccessivamente uno staffer per motivi futili, chiedere insistentemente di diventare staffer, essere sbannati o qualsiasi altra richiesta assurda, non è permesso.</p>
@@ -34,7 +34,7 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>
 <b style="color:#1E90FF"><i>1.6 Comportamenti tossici</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
-Lo scherzo, se non fastidioso, è invece permesso.</p>
+<br>Lo scherzo, se non fastidioso, è invece permesso.</p>
 <br>
 <b style="color:#1E90FF"><i>1.7 Razzismo</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È severamente vietato attuare comportamenti razzisti verso qualsiasi persona.</p>
@@ -44,8 +44,8 @@ Lo scherzo, se non fastidioso, è invece permesso.</p>
 <br>
 <b style="color:#1E90FF"><i>1.9 Exploit</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È severamente vietato l'abuso di qualsiasi tipo di exploit, glitch o bug.
-Nel caso in cui si dovesse uscire fuori dalla mappa, scatterebbe il ban permanente.
-<i>Esempio: abuso di eventuali bug di plugin, exploit per non subire danni da caduta ecc.</i></p>
+<br>Nel caso in cui si dovesse uscire fuori dalla mappa, scatterebbe il ban permanente.
+<br><i>Esempio: abuso di eventuali bug di plugin, exploit per non subire danni da caduta ecc.</i></p>
 <br>
 <b style="color:#1E90FF"><i>1.10 Cheating</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È severamente vietato qualsiasi tool esterno, memory hack, modifica dei file di gioco o altri metodi che apportino vantaggi in gioco.</p>
