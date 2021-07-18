@@ -32,38 +32,38 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <b style="color:#1E90FF"><i>1.5 Contestazioni</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato fare contestazioni sul server di gioco, per sanzioni ricevute e simili, anche per conto di terzi.</p>
 <br>
-<b><i><p style="color:#1E90FF;">1.6 Comportamenti tossici</p></i>:</b>
-<br>È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
-<br>Lo scherzo, se non fastidioso, è invece permesso.
-
-<b><i><p style="color:#1E90FF;">1.7 Razzismo</p></i>:</b>
-<br>È severamente vietato attuare comportamenti razzisti verso qualsiasi persona.
-
-<b><i><p style="color:#1E90FF;">1.8 Cyberbullismo</p></i>:</b>
-<br>È severamente vietato attuare comportamenti da cyberbullo nei confronti di qualsiasi persona.
-
-<b><i>1.9 Exploit</i>:</b>
-<br>È severamente vietato l'abuso di qualsiasi tipo di exploit, glitch o bug.
-<br>Nel caso in cui si dovesse uscire fuori dalla mappa, scatterebbe il ban permanente.
-<br><i>Esempio: abuso di eventuali bug di plugin, exploit per non subire danni da caduta ecc.</i>
-
-<b><i>1.10 Cheating</i>:</b>
-<br>È severamente vietato qualsiasi tool esterno, memory hack, modifica dei file di gioco o altri metodi che apportino vantaggi in gioco.
-
-<b><i>1.11 Impersonare lo staff</i>:</b>
-<br>È severamente vietato utilizzare nickname simili a quelli dello staff o farsi passare per membri dello staff in qualsiasi altro modo.
-
-<b><i>1.12 Ban Evasion</i>:</b>
-<br>È severamente vietato evadere un ban.
-
-<b><i>1.13 Abuso del sistema di report</i>:</b>
-<br>È vietato inviare report falsi, inutili, con insulti o spammarli in modo ripetuto.
-
-<b><i>1.14 Istigazione al mancato rispetto delle regole</i>:</b>
-<br>È vietato spingere altri giocatori alla violazione del regolamento.
-
-<b><i>1.15 Non avere un microfono</i>:</b>
-<br>È severamente vietato non utilizzare un microfono funzionante.
-
-<b><i>1.16 Violazione delle definizioni base</i>:</b>
-<br>È severamente vietato violare le definizioni base.
+<b style="color:#1E90FF"><i>1.6 Comportamenti tossici</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
+Lo scherzo, se non fastidioso, è invece permesso.</p>
+<br>
+<b style="color:#1E90FF"><i>1.7 Razzismo</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato attuare comportamenti razzisti verso qualsiasi persona.</p>
+<br>
+<b style="color:#1E90FF"><i>1.8 Cyberbullismo</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato attuare comportamenti da cyberbullo nei confronti di qualsiasi persona.</p>
+<br>
+<b style="color:#1E90FF"><i>1.9 Exploit</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato l'abuso di qualsiasi tipo di exploit, glitch o bug.
+Nel caso in cui si dovesse uscire fuori dalla mappa, scatterebbe il ban permanente.
+<i>Esempio: abuso di eventuali bug di plugin, exploit per non subire danni da caduta ecc.</i></p>
+<br>
+<b style="color:#1E90FF"><i>1.10 Cheating</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato qualsiasi tool esterno, memory hack, modifica dei file di gioco o altri metodi che apportino vantaggi in gioco.</p>
+<br>
+<b style="color:#1E90FF"><i>1.11 Impersonare lo Staff</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato utilizzare nickname simili a quelli dello staff o farsi passare per membri dello staff in qualsiasi altro modo.</p>
+<br>
+<b style="color:#1E90FF"><i>1.12 Ban Evasion</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato evadere un ban.</p>
+<br>
+<b style="color:#1E90FF"><i>1.13 Abuso del Sistema di Report</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È vietato inviare report falsi, inutili, con insulti o spammarli in modo ripetuto.</p>
+<br>
+<b style="color:#1E90FF"><i>1.14 Istigazione al mancato rispetto delle regole</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È vietato spingere altri giocatori alla violazione del regolamento.</p>
+<br>
+<b style="color:#1E90FF"><i>1.15 Non avere un microfo</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato non utilizzare un microfono funzionante.</p>
+<br>
+<b style="color:#1E90FF"><i>1.16 Violazione delle definizioni base</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È severamente vietato violare le definizioni base.</p>
