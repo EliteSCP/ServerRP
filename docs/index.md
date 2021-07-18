@@ -15,13 +15,12 @@ Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <b style="color:#1E90FF"><i>1.0 Insulti</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>
 <br>
-
 <b style="color:#1E90FF"><i>1.1 Bestemmie</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato bestemmiare in continuazione e in modo reiterato, qualche bestemmia occasionale è invece permessa.</p>
-
-<b><i><p style="color:#1E90FF;">1.2 Disturbo della quiete</p></i>:</b>
-<br>È vietato l'utilizzo di soundboard in qualsiasi circostanza.
-<br>È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.
+<br>
+<b style="color:#1E90FF"><i>1.2 Disturbo della quiete</i></b><b style="color:#4682B4">:</b>
+<p style="color:#00CED1">È vietato l'utilizzo di soundboard in qualsiasi circostanza.
+È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.</p>
 
 <b><i><p style="color:#1E90FF;">1.3 Advertising</p></i>:</b>
 <br>È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
