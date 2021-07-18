@@ -1,14 +1,14 @@
 <style>
 h2 {text-align: center;}
 h4 {text-align: center;}
-b {color:blue;}
+bold {color:#800080;}
 </style>
 
 <h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2>
 
 <h2><b>BREVE PRESENTAZIONE</b></h2>
-Questa è la "<i>pagina web</i>" dedicata al <b>Regolamento RP</b>.
-<br>Questo regolamento è stato creato ed ideato da: <b>Bay#0001</b> & <b>Vicroger#1240</b>.
+Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
+<br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
 
 <h2><b>REGOLAMENTO GENERALE</b></h2>
 
