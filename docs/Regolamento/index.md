@@ -1,3 +1,8 @@
+<style>
+u {text-align: center;}
+h2 {text-align: center;}
+</style>
+
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
 <b style="color:#1E90FF"><i><u>1.0 Insulti</u></i></b><b style="color:#4682B4">:</b>
