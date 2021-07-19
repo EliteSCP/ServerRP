@@ -1,4 +1,5 @@
 <style>
+h1 {text-align: center;}
 h2 {text-align: center;}
 h4 {text-align: center;}
 bold {color:#800080;}
