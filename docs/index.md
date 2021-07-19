@@ -8,7 +8,8 @@ bold {color:#800080;}
 
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
 <p style="color:#4169E1;">Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
-<br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.</p>
+<br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
+<br>[[PluginList]], [[Regolamento]]
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
