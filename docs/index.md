@@ -10,4 +10,4 @@ bold {color:#800080;}
 <p style="color:#4169E1;">Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
 <br>
-<h1><b style="color:#1E90FF">---> <a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">SEZIONE 1 - REGOLAMENTO GENERALE <---</a></b></h1>
+<h1><b style="color:#1E90FF">---> <a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">SEZIONE 1 - REGOLAMENTO GENERALE</a> <---</b></h1>
