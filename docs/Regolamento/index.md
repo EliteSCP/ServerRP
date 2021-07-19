@@ -4,10 +4,10 @@ h2 {text-align: center;}
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
-<b style="color:#1E90FF"><i><u><center>1.0 Insultiu></i></b><b style="color:#4682B4">:</b></center>
+<b style="color:#1E90FF"><i><center><u>1.0 Insulti</u>:</center></i></b>
 <p style="color:#00CED1">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>
 <br>
-<b style="color:#1E90FF"><i><u><center>1.1 Bestemmie</u></i></b><b style="color:#4682B4">:</b></center>
+<b style="color:#1E90FF"><i><center><u>1.1 Bestemmie</u>:</center></i></b>
 <p style="color:#00CED1">È vietato bestemmiare in continuazione e in modo reiterato, qualche bestemmia occasionale è invece permessa.</p>
 <br>
 <b style="color:#1E90FF"><i><u><center>1.2 Disturbo della quiete</u></i></b><b style="color:#4682B4">:</b></center>
