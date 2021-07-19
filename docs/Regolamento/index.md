@@ -10,11 +10,11 @@ h2 {text-align: center;}
 <b style="color:#1E90FF"><i><u>1.1 Bestemmie</u>:</i></b>
 <p style="color:#00CED1">È vietato bestemmiare in continuazione e in modo reiterato, qualche bestemmia occasionale è invece permessa.</p>
 <br>
-<b style="color:#1E90FF"><i><u>1.2 Disturbo della quiete</u>:</center></i></b>
+<b style="color:#1E90FF"><i><u>1.2 Disturbo della quiete</u>:</i></b>
 <p style="color:#00CED1">È vietato l'utilizzo di soundboard in qualsiasi circostanza.
 <br>È invece permesso l'utilizzo occasionale di modulatori vocali non fastidiosi e per brevi periodi.</p>
 <br>
-<b style="color:#1E90FF"><i><u>1.3 Advertising</u>:</center></i></b>
+<b style="color:#1E90FF"><i><u>1.3 Advertising</u>:</i></b>
 <p style="color:#00CED1">È severamente vietata qualsiasi forma di pubblicità a discord esterni, altri server di SCP o a siti di dubbia fiducia.
 <br>È severamente vietato sponsorizzarsi o sponsorizzare in qualsiasi forma e/o modo, vale soprattutto per <a href="https://www.twitch.tv" target="_blank">Twitch</a> e <a href="https://www.youtube.com" target="_blank">YouTube</a>.</p>
 <br>
@@ -24,7 +24,7 @@ h2 {text-align: center;}
 <b style="color:#1E90FF"><i><u>1.5 Contestazioni</u>:</i></b>
 <p style="color:#00CED1">È vietato fare contestazioni sul server di gioco, per sanzioni ricevute e simili, anche per conto di terzi.</p>
 <br>
-<b style="color:#1E90FF"><i><u>1.6 Comportamenti tossici</u>:</center></i></b>
+<b style="color:#1E90FF"><i><u>1.6 Comportamenti tossici</u>:</i></b>
 <p style="color:#00CED1">È vietato generare flame senza motivo e favorire la creazione di un ambiente tossico, prendere in giro eccessivamente i giocatori, lo staff, gruppi di persone.
 <br>Lo scherzo, se non fastidioso, è invece permesso.</p>
 <br>
@@ -54,7 +54,7 @@ h2 {text-align: center;}
 <b style="color:#1E90FF"><i><u>1.14 Istigazione al mancato rispetto delle regole</u>:</i></b>
 <p style="color:#00CED1">È vietato spingere altri giocatori alla violazione del regolamento.</p>
 <br>
-<b style="color:#1E90FF"><i><center><u>1.15 Non avere un microfono</u>:</i></b>
+<b style="color:#1E90FF"><i><u>1.15 Non avere un microfono</u>:</i></b>
 <p style="color:#00CED1">È severamente vietato non utilizzare un microfono funzionante.</p>
 <br>
 <b style="color:#1E90FF"><i><u>1.16 Violazione delle definizioni base</u>:</i></b>
