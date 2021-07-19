@@ -12,7 +12,7 @@ bold {color:#800080;}
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
-<b style="color:#1E90FF"><i>1.0 Insulti</i></b><b style="color:#4682B4">:</b>
+<b style="color:#1E90FF"><i><u>1.0 Insulti</u></i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">Qualsiasi tipo di insulto, rivolto a qualsiasi membro, staffer o gruppi di persone, è vietato.</p>
 <br>
 <b style="color:#1E90FF"><i>1.1 Bestemmie</i></b><b style="color:#4682B4">:</b>
@@ -62,7 +62,7 @@ bold {color:#800080;}
 <b style="color:#1E90FF"><i>1.14 Istigazione al mancato rispetto delle regole</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È vietato spingere altri giocatori alla violazione del regolamento.</p>
 <br>
-<b style="color:#1E90FF"><i>1.15 Non avere un microfo</i></b><b style="color:#4682B4">:</b>
+<b style="color:#1E90FF"><i>1.15 Non avere un microfono</i></b><b style="color:#4682B4">:</b>
 <p style="color:#00CED1">È severamente vietato non utilizzare un microfono funzionante.</p>
 <br>
 <b style="color:#1E90FF"><i>1.16 Violazione delle definizioni base</i></b><b style="color:#4682B4">:</b>
