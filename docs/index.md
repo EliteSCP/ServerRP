@@ -9,7 +9,7 @@ bold {color:#800080;}
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
 <p style="color:#4169E1;">Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
-<br>[[PluginList]], [[Regolamento]]
+<br><a href="https://elitescp.github.io/ServerRP/PluginList" target="_blank">Lista dei Plugin</a>, <a href="https://elitescp.github.io/ServerRP/PluginList" target="_blank">Regolamento generale</a>
 
 <h2><b><p style="color:#FFD700;">REGOLAMENTO GENERALE</p></b></h2>
 
