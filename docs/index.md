@@ -1,11 +1,10 @@
 <style>
-h1 {text-align: center;}
 h2 {text-align: center;}
 h4 {text-align: center;}
 bold {color:#800080;}
 </style>
 
-<h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2>
+<center><h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2></center>
 
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
 <p style="color:#4169E1;">Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
