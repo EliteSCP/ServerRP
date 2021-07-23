@@ -29,18 +29,16 @@ tr:nth-child(even) {
 <br>
 
 Varie sezione del Sito:
-<table style="width:100%">
-  <tr>
-    <th>REGOLAMENTO - RP</th>
-    <th>PLUGIN LIST - RP</th>
-  </tr>
-  <tr>
-    <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Sezione I</a></td>
-    <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II</a></td>
-  </tr>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
 </table>
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
