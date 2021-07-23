@@ -22,10 +22,10 @@ tr:nth-child(even) {
 <center><h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2></center>
 
 <h2><b><p style="color:#FFD700;">BREVE PRESENTAZIONE</p></b></h2>
-<p style="color:#4169E1;">Questa è la <i>Home Page</i>" dedicata al <bold>Server RP</bold>.
+<p style="color:#4169E1;">Questa è la "<i>Home Page</i>" dedicata al <bold>Server RP</bold>.
 <br>Questo Sito è stato creato da <bold>Bay#0001</bold>.
 <br>
-<h1><p style="color:gold;">--------------------------------------------------------------------</p></h1>
+<h1><p style="color:gold;">---------------------------------------------------------------</p></h1>
 <h2><b><p style="color:#FFD700;">COME DONARE E VANTAGGI</p></b></h2>
   
 Varie sezione del Sito:
