@@ -25,7 +25,7 @@ tr:nth-child(even) {
 <p style="color:#4169E1;">Questa è la "<i>Home Page</i>" dedicata al <bold>Server RP</bold>.
 <br>Questo Sito è stato creato da <bold>Bay#0001</bold>.
 <br>
-<h1><p style="color:gold;">---------------------------------------------------------------</p></h1>
+<h1><p style="color:gold;">------------------------------------------------------------------</p></h1>
 <h2><b><p style="color:#FFD700;">COME DONARE E VANTAGGI</p></b></h2>
   
 Varie sezione del Sito:
