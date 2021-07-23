@@ -7,6 +7,16 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
+
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
 </style>
 
 <center><h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2></center>
@@ -17,16 +27,13 @@ table {
 <br>
 
 Varie sezione del Sito:
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-        </tr>
-    </tbody>
+<table style="width:100%">
+  <tr>
+    <th>REGOLAMENTO - RP</th>
+    <th>PLUGIN LIST - RP</th>
+  </tr>
+  <tr>
+    <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Sezione I</a></td>
+    <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II</a></td>
+  </tr>
 </table>
