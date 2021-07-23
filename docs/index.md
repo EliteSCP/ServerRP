@@ -7,18 +7,6 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-  
-tr, th {
-  border: 1px solid #dddddd;
-  background-color: #8E44AD;
-  text-align: center;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #F4D03F;
-  text-align: center;
-}
 </style>
 
 <center><h2>Salve e benvenuto/a nella Home Page del Server RP di proprietà Elite S.r.l</h2></center>
