@@ -34,6 +34,6 @@ Varie sezione del Sito:
   </tr>
   <tr>
     <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Sezione I - Regolamento generale</a></td>
-    <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II - Lista dei Plugin (ovviamente solo quelli pubblici)</a></td>
+    <td><a href="https://elitescp.github.io/ServerRP/PluginList" target="_blank">Sezione II - Lista dei Plugin (ovviamente solo quelli pubblici)</a></td>
   </tr>
 </table>
