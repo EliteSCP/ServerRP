@@ -25,7 +25,7 @@ tr:nth-child(even) {
 <p style="color:#4169E1;">Questa è la "<i>pagina web</i>" dedicata al <bold>Regolamento RP</bold>.
 <br>Questo regolamento è stato creato ed ideato da: <bold>Bay#0001</bold> & <bold>Vicroger#1240</bold>.
 <br>
-
+<br>
 Varie sezione del Sito:
 <table style="width:100%">
   <tr>
@@ -33,7 +33,7 @@ Varie sezione del Sito:
     <th>PLUGIN LIST - RP</th>
   </tr>
   <tr>
-    <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Sezione I</a></td>
-    <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II</a></td>
+    <td><a href="https://elitescp.github.io/ServerRP/Regolamento" target="_blank">Sezione I - Regolamento generale</a></td>
+    <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II - Lista dei Plugin (ovviamente solo quelli pubblici)</a></td>
   </tr>
 </table>
