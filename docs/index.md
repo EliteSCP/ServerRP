@@ -7,16 +7,17 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
+  
 tr, th {
   border: 1px solid #dddddd;
   background-color: #8E44AD;
-  text-align: left;
+  text-align: center;
   padding: 8px;
 }
 
 tr:nth-child(even) {
   background-color: #F4D03F;
+  text-align: center;
 }
 </style>
 
@@ -38,3 +39,8 @@ Varie sezione del Sito:
     <td><a href="https://elitescp.github.io/ServerRP/Plugin List" target="_blank">Sezione II</a></td>
   </tr>
 </table>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
